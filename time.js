@@ -3,4 +3,4 @@ var day = date.getDate();
 var year = date.getFullYear();
 var month = date.getMonth() + 1;
 
-alert("hello");
+alert(""+day+"/"+month+"/"+year);
