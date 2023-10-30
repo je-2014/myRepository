@@ -1,3 +1,4 @@
 # myRepository
 
-this repository is for F28WD and contains weekly exercises based on that weeks content. all exercises are commited under a branch containing tha weeks content
+this branch contains exercises and lab examples from week 7 content: cookies and NodeJS 
+
